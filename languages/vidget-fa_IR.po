@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: vidget\n"
+"POT-Creation-Date: 2017-01-08 09:32+0330\n"
+"PO-Revision-Date: 2017-01-08 09:32+0330\n"
+"Last-Translator: \n"
+"Language-Team: wp-master.ir <wp@wp-master.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_;_e;esc_attr_e;esc_html__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: vidget.php:38
+msgid "vidget"
+msgstr "ابزارک ویدئو"
+
+#: vidget.php:39
+msgid "use wordpress bulitin video player in widgets"
+msgstr "استفاده از ویدئو پلیرتوکار وردپرس برای پخش ویدئو/صوت در ابزارک"
+
+#: vidget.php:60
+msgid "video/audio widget"
+msgstr "ابزارک پخش فیلم / صوت"
+
+#: vidget.php:61
+msgid "show yours videos/audios in your sidebars"
+msgstr "ویدئوهایتان/صوت هایتان را در سایدبار سایتتان نمایش دهید"
+
+#: vidget.php:118
+msgid "Featured Video "
+msgstr "ویدئو شاخص"
+
+#: vidget.php:164
+msgid "Title"
+msgstr "عنوان"
+
+#: vidget.php:168
+msgid "URL"
+msgstr "لینک"
+
+#: vidget.php:170
+msgid "Upload"
+msgstr "آپلود"
+
+#: vidget.php:172
+msgid "Options"
+msgstr "تنظیمات"
+
+#: vidget.php:175
+msgid "Type"
+msgstr "نوع"
+
+#: vidget.php:177
+msgid "Video"
+msgstr " ویدئو"
+
+#: vidget.php:178
+msgid "Audio"
+msgstr "صوت"
+
+#: vidget.php:182
+msgid "loop"
+msgstr "تکرار"
+
+#: vidget.php:186
+msgid "autoplay"
+msgstr "پخش خودکار"
+
+#: vidget.php:190
+msgid "preload"
+msgstr "لود به هنگام باز شدن صفحه"
+
+#: vidget.php:194
+msgid " video options"
+msgstr "تنظیمات  ویدئو"
+
+#: vidget.php:197
+msgid "poster"
+msgstr "عکس فیلم"
+
+#: vidget.php:201
+msgid "width"
+msgstr "عرض فیلم"
+
+#: vidget.php:205
+msgid "height"
+msgstr "ارتفاع فیلم"
